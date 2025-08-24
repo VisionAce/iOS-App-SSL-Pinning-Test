@@ -25,7 +25,7 @@ App 在連線伺服器時，不僅會驗證伺服器是否使用可信憑證，�
 
 
 ## 🔑 iOS (Swift) 實作範例
-**採用公鑰Pinninge**
+[採用公鑰Pinning][6]
 
 ---
 
@@ -107,3 +107,4 @@ App 在連線伺服器時，不僅會驗證伺服器是否使用可信憑證，�
 [3]: https://developer.apple.com/documentation/security/certificate-key-and-trust-services
 [4]: https://dwirandyh.medium.com/securing-your-flutter-app-by-adding-ssl-pinning-474722e38518
 [5]: https://developer.android.com/training/articles/security-config#CertificatePinning
+[6]: https://github.com/VisionAce/iOS-App-SSL-Pinning-Test/blob/01fb16203a0f96e2f6d298d2535c3b86cdb27850/SSLpinningTest/NetworkManager.swift#L48-L124
