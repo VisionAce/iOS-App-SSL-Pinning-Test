@@ -89,7 +89,7 @@ SPKI → DER Encode → SHA-256 → Base64
 3. 私鑰永不出現在 CSR、CRT，需妥善保管在伺服器  
 
 
-## 📸 YouTube iOSS Demo
+## 📸 YouTube iOS Demo
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mB-pgi_MyRM/0.jpg)](https://www.youtube.com/watch?v=mB-pgi_MyRM)
 
