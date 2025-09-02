@@ -169,6 +169,7 @@ SPKI → DER Encode → SHA-256 → Base64
 ## 參考連結
 - [Android][1]
 - [iOS][2]
+- [Certificate Pinning iOS][7]
 - [Flutter][4]
 
 [1]: https://developer.android.com/privacy-and-security/security-ssl?hl=zh-tw
@@ -177,3 +178,4 @@ SPKI → DER Encode → SHA-256 → Base64
 [4]: https://dwirandyh.medium.com/securing-your-flutter-app-by-adding-ssl-pinning-474722e38518
 [5]: https://developer.android.com/training/articles/security-config#CertificatePinning
 [6]: https://github.com/VisionAce/iOS-App-SSL-Pinning-Test/blob/01fb16203a0f96e2f6d298d2535c3b86cdb27850/SSLpinningTest/NetworkManager.swift#L48-L124
+[7]: https://www.netguru.com/blog/certificate-pinning-in-ios
