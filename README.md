@@ -169,6 +169,7 @@ SPKI → DER Encode → SHA-256 → Base64
 ## 參考連結
 - [Android][1]
 - [Android — SSL pinning][8]
+- [3 Ways How To Implement Certificate Pinning on Android][9]
 - [iOS][2]
 - [Certificate Pinning iOS][7]
 - [Flutter][4]
@@ -181,3 +182,4 @@ SPKI → DER Encode → SHA-256 → Base64
 [6]: https://github.com/VisionAce/iOS-App-SSL-Pinning-Test/blob/01fb16203a0f96e2f6d298d2535c3b86cdb27850/SSLpinningTest/NetworkManager.swift#L48-L124
 [7]: https://www.netguru.com/blog/certificate-pinning-in-ios
 [8]: https://medium.com/@s00001sam/android-ssl-pinning-21b7b97bbe6
+[9]: https://www.netguru.com/blog/android-certificate-pinning
