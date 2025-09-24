@@ -170,7 +170,7 @@ SPKI → DER Encode → SHA-256 → Base64
 - [Android][1]
 - [Android — SSL pinning][8]
 - [3 Ways How To Implement Certificate Pinning on Android][9]
-- [iOS][2]
+- [iOS-在info.plist中設置公鑰綁定的方法][2]
 - [Certificate Pinning iOS][7]
 - [Flutter][4]
 
