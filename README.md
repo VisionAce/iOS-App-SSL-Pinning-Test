@@ -158,7 +158,7 @@ SPKI → DER Encode → SHA-256 → Base64
 
 ---
 
-<--## 📸 YouTube iOS Demo
+<!--## 📸 YouTube iOS Demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/mB-pgi_MyRM/0.jpg)](https://www.youtube.com/watch?v=mB-pgi_MyRM)-->
 
 
